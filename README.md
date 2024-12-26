@@ -1,4 +1,4 @@
-#Histogram
+<h3>Histogram</h3>
 histograms are used for stacking values that belong to a particular bin
 bins can be predefined
 this is useful since its its helping the values getting stacked in a bin instead of stacking the values at their particular place
